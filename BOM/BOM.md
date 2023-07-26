@@ -42,6 +42,7 @@
 | Oscillator Crystal | 12.288MHz	| 1	| leg distance 4.8mm |
 | Voltage Regulator | LM1117-3.3 | 1 | SMD (SOT-223) |
 | Voltage Regulator | LM4040B10 | 1 | SMD (SOT-23) |
+| Ferrite Bead | BLM18R, 1kOhm | 3 | SMD (1608) |
 | Potentiometer | B10K | 10 | |
 | Mono Jack | 3.5mm | 10 | |
 | Switch | Tactile | 2 | e.g. Mouser: TL1105SPF160 |

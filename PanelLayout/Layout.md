@@ -15,8 +15,8 @@ Coordinates origin is the lower left corner of the panel.
 | 2 | 13 | 105 | Poly Mode LED |
 | 3 | 30 | 105 | Frequency Pot |
 | 4 | 65 | 105 | Structure Pot |
-| 5 | 82 | 105 | Resonator Mode LED |
-| 6 | 89 | 105 | Resonator Mode Button |
+| 5 | 82 | 105 | Resonance Mode LED |
+| 6 | 89 | 105 | Resonance Mode Button |
 | 7 | 20 | 80 | Brightness Pot |
 | 8 | 47.5 | 80 | Damping Pot |
 | 9 | 75 | 80 | Position Pot |

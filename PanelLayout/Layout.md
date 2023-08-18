@@ -1,7 +1,9 @@
 ## Panel Layout for PCB
 
+The panel dimensions provided in the section "Original Design" below are based on my own module build, since I am not following the standard HP (1HP eq. 5.08mm) size. An alternative by building an HP-standard size panel can be found in the section "HP Standard Design" further below.
+
+### Original Design
 Coordinates given in the table fit to the layout of components given in the PCBc in folder GerberFiles.
-The layout is slightly different for both versions due to different positions of the output LEDs. Details are given in the coordinates table below.
 
 Panel size: 95mm x 128.5mm
 
@@ -37,3 +39,17 @@ Coordinates origin is the lower left corner of the panel.
 | 24 | 82.5 | 15 | Even Out Jack |
 
 <img height="1200" src="https://github.com/TOILmodular/Rings/assets/97026614/d81e25e3-2ea8-4f09-a5da-82587b9f3df2">
+
+### HP Standard Design
+For building the panel with a size following the HP standard, you can use the panel Gerber file provided in the folder "GerberFiles".
+I ordered my own panel via such gerber file built out of PCB material.
+
+Here are a few parameters of the panel.
+| Parameter | Value |
+| --- | --- |
+| Width | 18HP |
+| Pot hole diameter | 8mm |
+| Jack hole diameter | 6.1mm |
+| Tact switch hole diameter | 5.1 mm |
+| Mounting hole diameter | 3.2mm|
+| LED hole diameter | 3.1mm|

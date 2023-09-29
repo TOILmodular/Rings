@@ -1,6 +1,8 @@
 # Rings - Resonator Eurorack Module
 A clone of the Mutable Instruments Rings module.
 
+Check out [this YouTube video](xxx) for a jam session demo of the module.
+
 <img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/efc3d28f-d1b6-4839-8045-321c8894e5e6">
 <img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/d5b82f52-5ba1-4d7b-b68c-416dfbceac1b">
 
@@ -67,8 +69,6 @@ Besides that, there are two connection points for putting the chip into boot mod
 
 <img width="245" alt="ProgrammingConnectors1" src="https://github.com/TOILmodular/Rings/assets/97026614/c66c2573-c085-4518-a28f-8aa0f665fca7">
 <img width="312" alt="ProgrammingConnectors2" src="https://github.com/TOILmodular/Rings/assets/97026614/0d6f9800-10da-4272-8e9e-248578f61d43">
-
-If you want to see more about the chip programming process, you can check out [this YouTube video](xxx).
 
 ## Calibration
 The calibration procedure is the same, as the one for the original module from Mutable Instruments.

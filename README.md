@@ -3,28 +3,29 @@ A clone of the Mutable Instruments Rings module.
 
 Check out [this YouTube video](https://youtu.be/Ztzl9nVm6xI) for a jam session demo of the module.
 
-<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/36dbae5c-1500-4edd-9f83-524d7e4a963c">
-<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/d5b82f52-5ba1-4d7b-b68c-416dfbceac1b">
+<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/f056a97e-0b70-432f-b60d-c904844adf8e">
+<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/097c8d2c-e369-4c25-8888-0f762ddeb539">
 
-<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/ee58af83-ef26-4978-acad-feafa655d0a1"> <img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/af841008-7d60-4d70-b48e-1994269e847c">
+<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/f87f9dfb-eaac-4990-a2e8-9bebd8624e4e">
+<img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/0d7e7f15-f82f-4284-a7eb-4ad3b31c1fcc">
 
 ## Module Build and PCBs
 In the folder GerberFiles, I added two different versions for the control board, an "original" and a "Thonk" version.
 Reason is that for my own module, I am using specific potentiometers - 16K4 series from Supertech Electronics - and 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
 
-<img width="300" alt="Rings_CtrlPCB_Orig" src="https://github.com/TOILmodular/Rings/assets/97026614/a5c27f82-242c-4156-849e-1837e471bf96">
+<img width="300" alt="Rings_CtrlPCB_Orig" src="https://github.com/TOILmodular/Rings/assets/97026614/e15909db-27cd-4b87-87d0-768e644b5d9b">
 
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created another control board PCB version, called "Thonk", with footprints for those components.
 
-<img width="300" alt="Rings_CtrlPCB_Thonk" src="https://github.com/TOILmodular/Rings/assets/97026614/f5a423b3-6077-45cc-ac7e-93030f5c5a2a">
+<img width="300" alt="Rings_CtrlPCB_Thonk" src="https://github.com/TOILmodular/Rings/assets/97026614/117891eb-6470-43bd-babe-d4ba82fd6619">
 
 There are also two different versions of the main PCB due to the fact that a different version of the audio codec chip WM8731 is used. One of them is using a QFN version of the IC, while the other ones package is SSOP. You will find more details about the reason for that in the section "Additional Information about specific Components" below.
 
 NOTE: I did not test the correctness of the "WM8731SSOP28" version of the main PCB.
 
-<img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/ece902e3-4a55-40cc-8f9c-20ea700ef991">
+<img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/cc987cb5-5e40-4eaa-99be-051f274a252c">
 
-<img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/509bf489-021d-4d74-a3df-214cbb4248a1">
+<img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/f701b4c2-d4a2-4572-9189-0c2ff38a891d">
 
 I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
 
@@ -67,8 +68,8 @@ The main PCB contains connection points for both connector types for programming
 
 Besides that, there are two connection points for putting the chip into boot mode, which is needed for loading the bootloader file. Just solder a 1x2 pin with standard 2.54mm distance to connection points labeled "BOOT". For activating the boot mode, place a jumper onto the pins. As soon as the bootloder is uploaded, remove the jumper to put the chip into operation mode, so the main code can be uploaded.
 
-<img width="245" alt="ProgrammingConnectors1" src="https://github.com/TOILmodular/Rings/assets/97026614/c66c2573-c085-4518-a28f-8aa0f665fca7">
-<img width="312" alt="ProgrammingConnectors2" src="https://github.com/TOILmodular/Rings/assets/97026614/0d6f9800-10da-4272-8e9e-248578f61d43">
+<img width="245" alt="ProgrammingConnectors1" src="https://github.com/TOILmodular/Rings/assets/97026614/edbec5af-546f-416c-a880-ef491883d5b6">
+<img width="312" alt="ProgrammingConnectors2" src="https://github.com/TOILmodular/Rings/assets/97026614/67825798-1c34-43f0-ae9a-2b764616fbf2">
 
 ## Calibration
 The calibration procedure is the same, as the one for the original module from Mutable Instruments.

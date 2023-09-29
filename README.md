@@ -1,7 +1,7 @@
 # Rings - Resonator Eurorack Module
 A clone of the Mutable Instruments Rings module.
 
-Check out [this YouTube video](xxx) for a jam session demo of the module.
+Check out [this YouTube video](https://youtu.be/Ztzl9nVm6xI) for a jam session demo of the module.
 
 <img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/efc3d28f-d1b6-4839-8045-321c8894e5e6">
 <img height="500" src="https://github.com/TOILmodular/Rings/assets/97026614/d5b82f52-5ba1-4d7b-b68c-416dfbceac1b">

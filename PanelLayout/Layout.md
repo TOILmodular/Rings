@@ -38,7 +38,7 @@ Coordinates origin is the lower left corner of the panel.
 | 23 | 65 | 15 | Odd Out Jack |
 | 24 | 82.5 | 15 | Even Out Jack |
 
-<img height="1200" src="https://github.com/TOILmodular/Rings/assets/97026614/d81e25e3-2ea8-4f09-a5da-82587b9f3df2">
+<img height="1000" src="https://github.com/TOILmodular/Rings/assets/97026614/119f1285-6ae4-48d5-b364-aa21f15e9bbc)">
 
 ### HP Standard Design
 For building the panel with a size following the HP standard, you can use the panel Gerber file provided in the folder "GerberFiles".

@@ -52,6 +52,7 @@ Here is a list of SMD parts in my design.
 - LM1117-3.3 (voltage regulator, SOT-223 package)
 - LM4040B10 (voltage regulator, SOT-23-3 package)
 - MMBT3904 (transistor, SOT-23-3 package)
+- BAT54ST (diode array, SOT-523 package)
 - 0.1uF capacitors (1608 package)
 - BLM18R (ferrite bead, 1608 package)
 

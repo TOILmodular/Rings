@@ -37,7 +37,7 @@ In addition, there is a Gerber file for the panel, following the HP standard. My
 You can use the panel Gerber file to have the panel built out of PCB material.
 
 ## Additional Information about specific Components
-There are several SMD components, which I listed below. Besides the STM32F405 microcontroller, the other main SMD part is the WM8731 audio codec chip from Cirrus Logic. The production of that chip is now discontinued. The the only ones I found offered by certified dealers have the package type QFN (quad flat no lead).
+There are several SMD components, which I listed below. Besides the STM32F405 microcontroller, the other main SMD part is the WM8731 audio codec chip from Cirrus Logic. The production of that chip is now discontinued. The only ones I found offered by certified dealers have the package type QFN (quad flat no lead).
 
 <img width="600" alt="WM8731 Close-Up" src="https://github.com/TOILmodular/Clouds/assets/97026614/1727ba69-bf46-4bc6-9adb-7a7ef0d35d4d">
 

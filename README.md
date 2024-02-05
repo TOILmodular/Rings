@@ -21,8 +21,6 @@ However, since most DIY projects for Eurorack modules out there are using potent
 
 There are also two different versions of the main PCB due to the fact that a different version of the audio codec chip WM8731 is used. One of them is using a QFN version of the IC, while the other ones package is SSOP. You will find more details about the reason for that in the section "Additional Information about specific Components" below.
 
-NOTE: I did not test the correctness of the "WM8731SSOP28" version of the main PCB.
-
 <img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/cc987cb5-5e40-4eaa-99be-051f274a252c">
 
 <img width="300" src="https://github.com/TOILmodular/Rings/assets/97026614/f701b4c2-d4a2-4572-9189-0c2ff38a891d">
